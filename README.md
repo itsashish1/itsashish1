@@ -1,18 +1,122 @@
-# 💫 About Me:
-🎓 B.Tech student in Computer Science Engineering (CSE)<br><br>💻 Passionate about software development and problem solving<br><br>🌱 Currently learning Full Stack Development, Python, and Data Structures<br><br>🤖 Interested in Artificial Intelligence, Machine Learning, and LLMs<br><br>🛠️ Skilled in Python, C/C++, HTML, CSS, and basic JavaScript<br><br>📊 Exploring Pandas, NumPy, and data analysis tools<br><br>🔍 Love to build real-world projects and automation systems<br><br>🧠 Strong interest in OOP concepts and system design<br><br>🚀 Always curious to learn new technologies and improve coding skills<br><br>🤝 Open to collaborations and open-source contributions<br><br>📌 Goal: To become a skilled software engineer / full stack developer
+<!-- markdownlint-disable -->
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsashish1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/itsashish1?label=Followers&style=flat" alt="GitHub Followers" />
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ashish.yadav.8786) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_me_ashishy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gtc-ashish/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/gtcashish1/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Ashish-Yadav-11769) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/IntroductionHot4158/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/its_me_ashishy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gtc.ashish1@gmail.com) 
+<p align="center">
+  <h2 align="center">Hi, I'm Ashish Yadav 👋</h2>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsashish1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=itsashish1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsashish1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <b>Software Developer | B.Tech CSE @ K.R. Mangalam University</b><br>
+  Building scalable web applications and solving complex algorithmic problems
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gtc-ashish/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/itsashish1/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:gtc.ashish1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=itsashish1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I am a Computer Science Engineering student with a passion for software development, problem-solving, and building real-world applications. My expertise spans across frontend development with React.js, backend development with Node.js, and algorithmic problem-solving with C++.
+
+I've gained hands-on industrial experience through my internship at **Emerson**, where I worked on automation systems, SCADA platforms, and industrial control modules. I'm actively building full-stack projects and strengthening my DSA skills to become a Software Development Engineer.
+
+---
+
+## Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | JavaScript, C++, C, Python, Java |
+| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js, Express.js, REST APIs |
+| **Databases** | MongoDB, MySQL, Microsoft SQL Server |
+| **Tools & Platforms** | Git, GitHub, VS Code, Linux |
+| **Domain** | Industrial Automation, SCADA (Movicon), IoT Fundamentals |
+
+---
+
+## Featured Projects
+
+### Food Waste Management System
+**React.js | MongoDB | Node.js**
+- Designed a platform connecting restaurants with NGOs to redistribute surplus food efficiently
+- Implemented user authentication, food listing, and donation tracking features
+- Reduced food wastage through real-time coordination and social impact initiatives
+
+### Smart Parking Management System
+**React.js | MongoDB | Node.js**
+- Developed a web-based system for online parking slot booking and vehicle tracking
+- Features include parking duration calculation, payment processing, and availability tracking
+- Improved parking efficiency and reduced search time for users
+
+### Smart Hall Automation (IoT-Based)
+**C | SCADA | MoviconNext4.4 | Emerson Automation**
+- Built control logic for lighting, ventilation, and temperature monitoring systems
+- Implemented PACSystems and C Toolkit syntax for industrial automation
+- Enhanced energy efficiency through real-time monitoring and automated control
+
+---
+
+## Experience
+
+### Software Engineering Intern
+**Emerson — Gurugram, India** | *Jun 2024 – Jul 2024*
+- Assisted the automation team in developing firmware-related modules for industrial control systems
+- Worked with PACSystems, MoviconNext SCADA, and C Toolkit for real-time monitoring
+- Built C-based simulation utilities for industrial sensor data logging and testing
+- Gained exposure to industrial automation, communication protocols, and system design
+
+---
+
+## Coding & Problem Solving
+
+| Platform | Stats |
+|----------|-------|
+| **LeetCode** | 75 Problems Solved (21 Easy, 43 Medium, 11 Hard) |
+| **Languages Used** | C++, Java |
+| **Active Days** | 45+ days in the past year |
+| **Focus Areas** | DSA, System Design, OOP |
+
+---
+
+## Currently Focused On
+
+- Building full-stack applications with modern frameworks
+- Strengthening DSA and competitive programming skills
+- Contributing to open-source projects
+- Learning advanced backend architecture and system design
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsashish1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsashish1&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=itsashish1&theme=tokyonight&hide_border=false" alt="Streak Stats" />
+</p>
+
+---
+
+<p align="center">
+  <i>Let's connect and build something great together! 🚀</i>
+</p>
+
+<!-- markdownlint-enable -->
